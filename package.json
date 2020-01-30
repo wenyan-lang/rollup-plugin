@@ -1,0 +1,38 @@
+{
+  "name": "@wenyanlang/rollup-plugin",
+  "version": "0.0.1",
+  "description": "Rollup plugin for wenyan-lang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfu/wenyan-rollup-plugin.git"
+  },
+  "keywords": [
+    "rollup-plugin",
+    "wenyan",
+    "wenyan-lang"
+  ],
+  "author": "Anthtony Fu <anthonyfu117@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antfu/wenyan-rollup-plugin/issues"
+  },
+  "homepage": "https://github.com/antfu/wenyan-rollup-plugin#readme",
+  "peerDependencies": {
+    "@wenyanlang/core": "^0.3.0",
+    "rollup": "^1.0.0"
+  },
+  "dependencies": {
+    "@rollup/pluginutils": "^3.0.1"
+  },
+  "devDependencies": {
+    "@wenyanlang/core": "^0.3.1",
+    "rollup": "^1.30.1"
+  }
+}
