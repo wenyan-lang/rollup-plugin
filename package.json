@@ -29,7 +29,8 @@
     "rollup": "^1.0.0"
   },
   "dependencies": {
-    "@rollup/pluginutils": "^3.0.1"
+    "@rollup/pluginutils": "^3.0.1",
+    "find-up": "^4.1.0"
   },
   "devDependencies": {
     "@wenyanlang/core": "^0.3.1",

@@ -1,9 +1,9 @@
 import wenyan from '..'
 
 export default ({
-  input: '圖靈機.wy',
+  input: 'src/序.wy',
   output: {
-    file: 'dist/turing.js',
+    file: 'dist/index.js',
     format: 'cjs',
   },
   plugins: [
