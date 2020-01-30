@@ -5,7 +5,7 @@ Rollup.js plugin for wenyan-lang
 ## Install
 
 ```bash
-npm i -D @wenyanlang/{rollup-plugin,core}
+npm i -D @wenyanlang/rollup-plugin @wenyanlang/core
 ```
 
 ## Rollup Config
