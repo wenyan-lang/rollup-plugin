@@ -1,6 +1,6 @@
 {
   "name": "@wenyanlang/rollup-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rollup plugin for wenyan-lang",
   "main": "index.js",
   "scripts": {
