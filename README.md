@@ -5,13 +5,13 @@ Rollup.js plugin for wenyan-lang
 ## Install
 
 ```bash
-npm i -D @wenyanlang/rollup-plugin @wenyanlang/core
+npm i -D @wenyan/rollup-plugin @wenyan/core
 ```
 
 ## Rollup Config
 
 ```js
-import wenyan from '@wenyanlang/rollup-plugin'
+import wenyan from '@wenyan/rollup-plugin'
 
 export default ({
   input: '圖靈機.wy',

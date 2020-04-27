@@ -1,5 +1,5 @@
 const { createFilter } = require('@rollup/pluginutils')
-const { compile } = require('@wenyanlang/core')
+const { compile } = require('@wenyan/core')
 const { dirname } = require('path')
 const findUp = require('find-up')
 

@@ -1,6 +1,6 @@
 {
-  "name": "@wenyanlang/rollup-plugin",
-  "version": "0.0.2",
+  "name": "@wenyan/rollup-plugin",
+  "version": "0.0.3",
   "description": "Rollup plugin for wenyan-lang",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/antfu/wenyan-rollup-plugin#readme",
   "peerDependencies": {
-    "@wenyanlang/core": "^0.3.0",
+    "@wenyan/core": "^0.3.3",
     "rollup": "^1.0.0"
   },
   "dependencies": {
@@ -33,7 +33,7 @@
     "find-up": "^4.1.0"
   },
   "devDependencies": {
-    "@wenyanlang/core": "^0.3.1",
+    "@wenyan/core": "^0.3.3",
     "rollup": "^1.30.1"
   }
 }
